@@ -15,7 +15,7 @@
 ## Final acceptance evidence
 
 - Four classes: mouse, keyboard, cup and phone.
-- Independent physical-object test: 72/80 images passed (90%).
+- Independent physical-object test: 77/80 images passed (95%).
 - Jetson demonstration: approximately 15 FPS, above the 5 FPS requirement.
 - ROS2 publisher: `vision_msgs/Detection2DArray` on `/detections`.
 - Training starts from `yolov8n.yaml` with random initialization; no COCO or other external pretrained checkpoint is used.
