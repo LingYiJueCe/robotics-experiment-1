@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.py[cod]
+07_report/
+report/
+*.tex
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+MANIFEST.sha256
+outputs/
+tools/
+work/
