@@ -14,7 +14,7 @@
 
 ## Final acceptance evidence
 
-- Four classes: mouse, laptop, cup and phone.
+- Four classes: mouse, keyboard, cup and phone.
 - Independent physical-object test: 72/80 images passed (90%).
 - Jetson demonstration: approximately 15 FPS, above the 5 FPS requirement.
 - ROS2 publisher: `vision_msgs/Detection2DArray` on `/detections`.
