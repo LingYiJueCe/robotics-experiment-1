@@ -1,0 +1,11 @@
+# Local dataset configuration.
+# The path is relative to this data.yaml file.
+path: .
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: mouse
+  1: laptop
+  2: cup
+  3: phone
